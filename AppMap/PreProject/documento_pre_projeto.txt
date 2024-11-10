@@ -1,0 +1,44 @@
+
+```json
+{
+  "doc_Pre_Projeto": {
+    "titulo": "Projeto de Desenvolvimento de Analisador de Dados CSV",
+    "data": "2024-11-10",
+    "descricao": "Desenvolvimento de um script em Python para um Analisador de Dados CSV. O script deve ler arquivos CSV de diferentes formatos, processar os dados, realizar análises estatísticas básicas e gerar relatórios sobre a distribuição dos dados. Também deve incluir funcionalidades de visualização dos dados.",
+    "objetivos": [
+      "Ler arquivos CSV de diferentes formatos.",
+      "Processar os dados, incluindo a remoção de valores nulos e a normalização.",
+      "Realizar análises estatísticas básicas como média, mediana, moda, e desvio padrão para colunas numéricas.",
+      "Gerar relatórios sobre a distribuição dos dados, identificando tendências ou padrões.",
+      "Possibilitar a visualização dos dados usando bibliotecas como Matplotlib ou Seaborn."
+    ],
+    "requisitos": {
+      "tecnologia": "Python",
+      "bibliotecas": [
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "seaborn"
+      ],
+      "caracteristicas": [
+        "Script modular",
+        "Bem documentado",
+        "Fácil manutenção e extensão"
+      ]
+    },
+    "stakeholders": [
+      "Equipe de Desenvolvimento",
+      "Analistas de Dados",
+      "Gerente de Projeto"
+    ],
+    "data_de_inicio": "2024-11-15",
+    "data_de_fim": "2025-01-15"
+  }
+}
+```
+
+```json
+{
+  "name_doc_Pre_Projeto": "Documento Pre-Projeto: Analisador de Dados CSV"
+}
+```
