@@ -1,0 +1,88 @@
+
+Com base no documento pre projeto fornecido, aqui está o cronograma e a planilha do projeto no formato JSON.
+
+### Cronograma do Projeto
+
+```json
+{
+  "cronograma": {
+    "titulo": "Cronograma do Projeto de Desenvolvimento de Analisador de Dados CSV",
+    "datas": [
+      {
+        "fase": "Planejamento",
+        "data_inicio": "2024-11-15",
+        "data_fim": "2024-11-22"
+      },
+      {
+        "fase": "Levantamento de Requisitos",
+        "data_inicio": "2024-11-23",
+        "data_fim": "2024-11-30"
+      },
+      {
+        "fase": "Desenvolvimento do Script",
+        "data_inicio": "2024-12-01",
+        "data_fim": "2024-12-20"
+      },
+      {
+        "fase": "Testes e Validação",
+        "data_inicio": "2024-12-21",
+        "data_fim": "2025-01-05"
+      },
+      {
+        "fase": "Geração de Relatórios",
+        "data_inicio": "2025-01-06",
+        "data_fim": "2025-01-10"
+      },
+      {
+        "fase": "Implantação",
+        "data_inicio": "2025-01-11",
+        "data_fim": "2025-01-15"
+      }
+    ]
+  }
+}
+```
+
+### Planilha do Projeto
+
+```json
+{
+  "planilha": {
+    "titulo": "Planilha do Projeto de Desenvolvimento de Analisador de Dados CSV",
+    "itens": [
+      {
+        "atividade": "Planejamento",
+        "responsavel": "Gerente de Projeto",
+        "status": "Pendente"
+      },
+      {
+        "atividade": "Levantamento de Requisitos",
+        "responsavel": "Equipe de Desenvolvimento e Analistas de Dados",
+        "status": "Pendente"
+      },
+      {
+        "atividade": "Desenvolvimento do Script",
+        "responsavel": "Equipe de Desenvolvimento",
+        "status": "Pendente"
+      },
+      {
+        "atividade": "Testes e Validação",
+        "responsavel": "Analistas de Dados",
+        "status": "Pendente"
+      },
+      {
+        "atividade": "Geração de Relatórios",
+        "responsavel": "Equipe de Desenvolvimento",
+        "status": "Pendente"
+      },
+      {
+        "atividade": "Implantação",
+        "responsavel": "Gerente de Projeto",
+        "status": "Pendente"
+      }
+    ]
+  }
+}
+```
+
+Esses JSONs representam o cronograma e a planilha do projeto com base nas informações do documento pre projeto.
